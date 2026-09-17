@@ -1,0 +1,6 @@
+{
+  "name": "ClaimShield AI",
+  "description": "The Hospital's offensive AI claims gatekeeper for automated pre-submission compliance, ICD-10/CPT normalization, and NHCX HL7 FHIR payload generation.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
